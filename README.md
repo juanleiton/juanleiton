@@ -1,6 +1,32 @@
-Soy Juan, me gusta la historia 📖 y las películas 🎬. Soy desarrollador Web full-stack con conocimiento de TypeScript, Node, Express, React, Redux, PostgreSQL, MongoDB Atlas, Sequelize y Mongoose, entre otras tecnologías. Desarrollo aplicaciones funcionales con un diseño moderno y minimalista, mejorando la experiencia del usuario y garantizando la eficiencia y la seguridad en el manejo de la información 🆔 y las transacciones 💰. Tengo especial interés por el rubro Fintech 💳 y el comercio electrónico 🛒.
+##Juan Leiton##
 
-Estudié economía 📊 porque me gusta encontrar soluciones a problemas "del mundo real" 🌍, sin embargo, en esta profesión no participas directamente en la implementación de dichas soluciones y los resultados no dependen de ti en última instancia. Como desarrollador busco e implemento soluciones para resolver problemas reales de clientes y usuarios 💡. Mi experiencia como emprendedor me enseñó a aprender rápido y sobre la marcha, a encontrar soluciones eficientes, a establecer prioridades, a delegar tareas, a mantenerme sereno ante lo inesperado y a descartar oportunamente ideas que se han vuelto inviables 📉.
+###¿Quién soy?###
+Soy **desarrollador Web Full Stack**. Busco e implemento soluciones para resolver problemas reales de clientes y usuarios 💡.
 
-Si quieres saber más, escríbeme a jgleitonl@gmail.com
-También te invito a conocer mis proyectos en https://github.com/juanleiton
+###¿Qué hago?###
+Desarrollo aplicaciones funcionales con un diseño moderno e intuitivo, **poniendo al usuario en el centro del proceso y garantizando la eficiencia y la seguridad** en el manejo de la información 🆔 y las transacciones💰. Me formo constantemente y realizo proyectos personales para mejorar y ampliar mis habilidades.
+
+###¿Qué busco?###
+Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis habilidades en la industria **Fintech** 💳 y del **comercio electrónico** 🛒.
+
+###¿Qué tecnologías uso?###
+- JavaScript
+- TypeScript
+- HTML5
+- CSS
+- PostgreSQL
+- MongoDB Atlas
+- Sequelize.js
+- Mongoose.js
+- Node.js
+- Express.js
+- React.js
+- Redux.js
+- Auth0.js
+- Git
+
+También tengo experiencia en el manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
+
+###¿Quieres contactarme?###
+LinkedIn: [https://www.linkedin.com/in/juan-leiton-ba3582214/]
+Correo electrónico: [jgleitonl@gmail.com]
