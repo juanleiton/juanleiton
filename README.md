@@ -24,6 +24,7 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
 - Redux.js
 - Auth0.js
 - Git
+
 También tengo experiencia en el manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
 
 ### ¿Quieres contactarme? ###
