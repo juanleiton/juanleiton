@@ -1,4 +1,4 @@
-## Juan Leiton ##
+## Saludos, soy Juan Leiton... ##
 
 ### ¿Quién soy? ###
 Soy **desarrollador Web Full Stack**. Busco e implemento soluciones para resolver problemas reales de clientes y usuarios 💡.
