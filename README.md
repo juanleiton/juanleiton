@@ -28,5 +28,6 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
 También tengo experiencia en el manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
 
 ### ¿Quieres contactarme? ###
-LinkedIn: [https://www.linkedin.com/in/juan-leiton-ba3582214/]
-Correo electrónico: [jgleitonl@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/juan-leiton-ba3582214/](https://www.linkedin.com/in/juan-leiton-ba3582214/)
+
+Correo electrónico: [jgleitonl@gmail.com](jgleitonl@gmail.com)
