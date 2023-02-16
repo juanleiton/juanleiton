@@ -10,19 +10,18 @@ Desarrollo aplicaciones funcionales con un diseño moderno e intuitivo, **ponien
 Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis habilidades en la industria **Fintech** 💳 y el **comercio electrónico** 🛒.
 
 ### ¿Qué tecnologías uso? ###
-- JavaScript
 - TypeScript
 - HTML5
-- CSS
+- CSS3
 - PostgreSQL
 - MongoDB Atlas
-- Sequelize.js
-- Mongoose.js
-- Node.js
-- Express.js
-- React.js
-- Redux.js
-- Auth0.js
+- Sequelize
+- Mongoose
+- Node
+- Express
+- React
+- Redux
+- Auth0
 - Git
 
 También tengo experiencia en manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
