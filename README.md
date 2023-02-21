@@ -2,6 +2,7 @@
 
 ### ¿Quién soy? ###
 **Desarrollador Web full stack**. Busco e implemento soluciones para resolver problemas reales de clientes y usuarios 💡.
+
 Estudié economía 📊 porque me gusta encontrar soluciones a problemas "del mundo real" 🌍, sin embargo, en esta profesión no participas directamente en la implementación de dichas soluciones y los resultados no dependen de ti en última instancia, por eso decidí dar un giro a mi carrera e incursionar en el mundo de la tecnología.
 
 ### ¿Qué hago? ###
