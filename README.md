@@ -12,12 +12,12 @@ Desarrollo aplicaciones funcionales con un diseño moderno e intuitivo, **ponien
 Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis habilidades en la industria **Fintech** 💳 y el **comercio electrónico** 🛒.
 
 ### ¿Qué tecnologías uso? ###
-  <a href="url">
+  - <a href="url">
     <img src="https://user-images.githubusercontent.com/108427945/220447577-2d40e53b-d911-4919-9df8-1a832e7264e1.png" width="50" >
   </a> JavaScript
-  <a href="url">
+  - <a href="url">
     <img src="https://user-images.githubusercontent.com/108427945/220448197-9361ad94-2867-4aca-8bcd-3a4ddb2b499c.png" width="50" >
-  </a>
+  </a> 
   <a href="url">
     <img src="https://user-images.githubusercontent.com/108427945/220448406-7bcd41a4-e0c3-4d97-8901-6ec45c3effa5.png" width="50" >
   </a>
