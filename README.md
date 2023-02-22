@@ -33,4 +33,5 @@ LinkedIn: [https://www.linkedin.com/in/juan-leiton-ba3582214/](https://www.linke
 
 Correo electrónico: [jgleitonl@gmail.com](jgleitonl@gmail.com)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 ![Visitor Count](https://profile-counter.glitch.me/juanleiton/count.svg)
