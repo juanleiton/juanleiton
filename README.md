@@ -32,5 +32,3 @@ También tengo experiencia en manejo de GitFlow y en trabajo en equipo bajo la m
 LinkedIn: [https://www.linkedin.com/in/juan-leiton-ba3582214/](https://www.linkedin.com/in/juan-leiton-ba3582214/)
 
 Correo electrónico: [jgleitonl@gmail.com](jgleitonl@gmail.com)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=juanleiton&left_color=green&right_color=red)
