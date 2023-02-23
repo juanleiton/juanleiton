@@ -11,7 +11,7 @@ Desarrollo aplicaciones funcionales con un diseño moderno e intuitivo, **ponien
 ### ¿Qué busco? ###
 Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis habilidades en la industria **Fintech** 💳 y el **comercio electrónico** 🛒.
 
-### ¿Qué tecnologías uso? ###
+### ¿Qué tecnologías y herramientas uso? ###
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
