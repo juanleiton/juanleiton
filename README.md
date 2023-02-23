@@ -25,7 +25,7 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
     <img src="https://user-images.githubusercontent.com/108427945/220448406-7bcd41a4-e0c3-4d97-8901-6ec45c3effa5.png" width="50" >
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://user-images.githubusercontent.com/108427945/220448808-2ccebd50-595e-4b02-8b59-ac7b4f5e52d4.png" width="40" >
+    <img src="https://user-images.githubusercontent.com/108427945/220448808-2ccebd50-595e-4b02-8b59-ac7b4f5e52d4.png" width="30" >
   </a>
   <a href="https://www.mongodb.com/">
     <img src="https://user-images.githubusercontent.com/108427945/220798061-16bd9b8a-e763-4004-b95a-1bfecd456404.png" width="50" >
@@ -52,7 +52,7 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
     <img src="https://user-images.githubusercontent.com/108427945/220799198-a8e6e836-f9d1-436b-9853-515d6cc769bd.png" width="50" >
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://user-images.githubusercontent.com/108427945/220799354-9b2a07b1-d80c-4684-9bc3-33ce34d8f2e5.png" width="50" >
+    <img src="https://user-images.githubusercontent.com/108427945/220799354-9b2a07b1-d80c-4684-9bc3-33ce34d8f2e5.png" width="30" >
   </a>
 
 También tengo experiencia en manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
