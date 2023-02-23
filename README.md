@@ -36,19 +36,22 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
   <a href="https://mongoosejs.com/">
     <img src="https://user-images.githubusercontent.com/108427945/220798508-6728ea7d-e461-4df5-a24a-f6a378dca838.png" width="50" >
   </a>
-
-  <a href="url">
+  <a href="https://nodejs.org/en/">
     <img src="https://user-images.githubusercontent.com/108427945/220450396-5786cd98-e2ce-47e8-b15f-056a251bd01b.png" width="50" >
   </a>
-  <a href="url">
+  <a href="https://expressjs.com/">
     <img src="https://user-images.githubusercontent.com/108427945/220450657-a17aca01-f90d-4843-9137-20bca9668a22.png" width="50" >
   </a>
-  <a href="url">
+  <a href="https://reactjs.org/">
     <img src="https://user-images.githubusercontent.com/108427945/220451016-cfb63adb-0aa4-493a-bef0-e090e301b3b1.png" width="50" >
   </a>
-  <a href="url">
+  <a href="https://redux.js.org/">
     <img src="https://user-images.githubusercontent.com/108427945/220451188-0dd37557-2067-4058-b6bc-eb14377f334c.png" width="50" >
   </a>
+  <a href="https://auth0.com/">
+    <img src="https://user-images.githubusercontent.com/108427945/220799198-a8e6e836-f9d1-436b-9853-515d6cc769bd.png" width="50" >
+  </a>
+
 
 - JavaScript
 - TypeScript
