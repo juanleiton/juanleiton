@@ -12,6 +12,7 @@ Desarrollo aplicaciones funcionales con un diseño moderno e intuitivo, **ponien
 Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis habilidades en la industria **Fintech** 💳 y el **comercio electrónico** 🛒.
 
 ### ¿Qué tecnologías y herramientas uso? ###
+<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://user-images.githubusercontent.com/108427945/220447577-2d40e53b-d911-4919-9df8-1a832e7264e1.png" width="50" >
   </a>
@@ -54,6 +55,7 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
   <a href="https://git-scm.com/">
     <img src="https://user-images.githubusercontent.com/108427945/220799354-9b2a07b1-d80c-4684-9bc3-33ce34d8f2e5.png" width="50" >
   </a>
+</div>
 
 También tengo experiencia en manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
 
