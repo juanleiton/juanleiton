@@ -51,22 +51,9 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
   <a href="https://auth0.com/">
     <img src="https://user-images.githubusercontent.com/108427945/220799198-a8e6e836-f9d1-436b-9853-515d6cc769bd.png" width="50" >
   </a>
-
-
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- PostgreSQL
-- MongoDB
-- Sequelize
-- Mongoose
-- Node
-- Express
-- React
-- Redux
-- Auth0
-- Git
+  <a href="https://git-scm.com/">
+    <img src="https://user-images.githubusercontent.com/108427945/220799354-9b2a07b1-d80c-4684-9bc3-33ce34d8f2e5.png" >
+  </a>
 
 También tengo experiencia en manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
 
