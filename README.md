@@ -30,6 +30,18 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
 También tengo experiencia en manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
 
 ### ¿Quieres contactarme? ###
+<div id="badges">
+  <a href="https://www.linkedin.com/in/juan-leiton-ba3582214/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 LinkedIn: [https://www.linkedin.com/in/juan-leiton-ba3582214/](https://www.linkedin.com/in/juan-leiton-ba3582214/)
 
 Correo electrónico: [jgleitonl@gmail.com](jgleitonl@gmail.com)
