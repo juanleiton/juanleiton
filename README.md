@@ -72,8 +72,9 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Google-white?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge"/>
+  </a>
 </div>
-
-LinkedIn: [https://www.linkedin.com/in/juan-leiton-ba3582214/](https://www.linkedin.com/in/juan-leiton-ba3582214/)
 
 Correo electrónico: [jgleitonl@gmail.com](jgleitonl@gmail.com)
