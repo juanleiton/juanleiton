@@ -15,6 +15,9 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://user-images.githubusercontent.com/108427945/220447577-2d40e53b-d911-4919-9df8-1a832e7264e1.png" width="50" >
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://user-images.githubusercontent.com/108427945/220797241-e4531353-02ae-4f36-960e-a90259867b9f.png" width="50" >
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://user-images.githubusercontent.com/108427945/220448197-9361ad94-2867-4aca-8bcd-3a4ddb2b499c.png" width="50" >
   </a>
@@ -23,6 +26,12 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
   </a>
   <a href="https://www.postgresql.org/">
     <img src="https://user-images.githubusercontent.com/108427945/220448808-2ccebd50-595e-4b02-8b59-ac7b4f5e52d4.png" width="50" >
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://user-images.githubusercontent.com/108427945/220798061-16bd9b8a-e763-4004-b95a-1bfecd456404.png" width="50" >
+  </a>
+  <a href="">
+    <img src="" width="50" >
   </a>
   <a href="url">
     <img src="https://user-images.githubusercontent.com/108427945/220449748-8b0cce45-1156-49a7-a6da-83a8d921c83b.png" width="50" >
@@ -45,7 +54,7 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
 - HTML
 - CSS
 - PostgreSQL
-- MongoDB Atlas
+- MongoDB
 - Sequelize
 - Mongoose
 - Node
