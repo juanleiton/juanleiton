@@ -56,9 +56,10 @@ Dado que gusta enfocarme en el usuario, tengo especial interés en aplicar mis h
     <img src="https://user-images.githubusercontent.com/108427945/220799354-9b2a07b1-d80c-4684-9bc3-33ce34d8f2e5.png" width="50" >
   </a>
 </div>
-
+<div>
 También tengo experiencia en manejo de GitFlow y en trabajo en equipo bajo la metodología Scrum.
-
+</div>
+  
 ### ¿Quieres contactarme? ###
 <div id="badges">
   <a href="https://www.linkedin.com/in/juan-leiton-ba3582214/">
