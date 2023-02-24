@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Juan Leiton... ##
-**Full Stack Web Developer**
+## **Full Stack Web Developer** ##
 
 ### About me 🧑🏻‍💻 ###
 I find and implement solutions to customer and user real issues 💡.
