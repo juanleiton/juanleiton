@@ -6,11 +6,11 @@ I find and implement solutions to customer and user real issues 💡.
 
 My experience as an entrepreneur taught me how to learn quick and on the fly, how to find efficient solutions, how to set priorities, how to delegate tasks, how to stay calm before the unexpected and how to rule out unworkable ideas 📉. I got a bachelor's degree in Economics 📊 because I enjoy finding solutions to "real world problems" 🌍, however, in this field you can't get directly involved in the implementation of such solutions and results don't depend ultimately on you, that's why I decided to switch career paths to IT.
 
-### What do I do? 🛠️ ###
+### What I do 🛠️ ###
 I develop functional apps with a modern and intuitive design, **having user experience in the first place and guaranteeing efficiency and security** in transactions 💰  and data management 🆔. I'm always learning and working on projects in order to improve and widen my skills, as well as to keep up-to-date.
 
 ### My interests 🔍 ###
-Since I like to focus on user experience, I have a special interest in **e-commerce** 🛒 and the **Fintech** 💳 industry.
+Since I like to focus on user experience, I have a special interest in **e-commerce** 🛒 **Fintech** 💳.
 
 ### Tools & technologies 🧰 ###
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
