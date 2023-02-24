@@ -59,7 +59,7 @@ Since I like to focus on user experience, I have a special interest in **e-comme
  I also have experience 👷 in GitFlow and team work under the Scrum methodology.
 </div>
  
-### My stats 📊 ###
+### My stats 🔥 ###
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanleiton&theme=light&background=ffffff)](https://git.io/streak-stats)
 
 ### How to reach me 📫 ###
@@ -75,4 +75,4 @@ Since I like to focus on user experience, I have a special interest in **e-comme
   </a>
 </div>
 
-Email me at [jgleitonl@gmail.com](jgleitonl@gmail.com) 📧
+Email me 📧 at [jgleitonl@gmail.com](jgleitonl@gmail.com)
