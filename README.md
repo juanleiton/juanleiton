@@ -12,7 +12,7 @@ I develop functional apps with a modern and intuitive design, **having user expe
 ### My interests 🔍 ###
 Since I like to focus on user experience, I have a special interest in **e-commerce** 🛒 **Fintech** 💳.
 
-### Tools & technologies 🧰 ###
+### My Tools & technologies 🧰 ###
  <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img src="https://user-images.githubusercontent.com/108427945/220447577-2d40e53b-d911-4919-9df8-1a832e7264e1.png" width="50" >
