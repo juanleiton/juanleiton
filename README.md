@@ -56,7 +56,9 @@ Since I like to focus on user experience, I have a special interest in **e-comme
   <img src="https://user-images.githubusercontent.com/108427945/220799354-9b2a07b1-d80c-4684-9bc3-33ce34d8f2e5.png" width="50" >
  </a>
 <div>
- I also have experience 👷 in **GitFlow** and team work under the **Scrum** methodology.
+ <p>
+  I also have experience 👷 in **GitFlow** and team work under the **Scrum** methodology.
+ </p>
 </div>
  
 ### My stats 🔥 ###
