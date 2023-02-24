@@ -13,6 +13,7 @@ I develop functional apps with a modern and intuitive design, **having user expe
 Since I like to focus on user experience, I have a special interest in **e-commerce** 🛒 **Fintech** 💳.
 
 ### Tools & technologies 🧰 ###
+ <div>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://user-images.githubusercontent.com/108427945/220447577-2d40e53b-d911-4919-9df8-1a832e7264e1.png" width="50" >
  </a>
@@ -55,11 +56,8 @@ Since I like to focus on user experience, I have a special interest in **e-comme
  <a href="https://git-scm.com/">
   <img src="https://user-images.githubusercontent.com/108427945/220799354-9b2a07b1-d80c-4684-9bc3-33ce34d8f2e5.png" width="50" >
  </a>
-<div>
- <p>
-  I also have experience 👷 in **GitFlow** and team work under the **Scrum** methodology.
- </p>
-</div>
+ </div>
+ I also have experience 👷 in **GitFlow** and team work under the **Scrum** methodology.
  
 ### My stats 🔥 ###
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanleiton&theme=light&background=ffffff)](https://git.io/streak-stats)
