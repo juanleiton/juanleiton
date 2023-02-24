@@ -2,9 +2,9 @@
 ### **Full Stack Web Developer** ###
 
 ### About me 🧑🏻‍💻 ###
-I find and implement solutions to customer and user real issues 💡.
+I find and solve customer and user real issues 💡.
 
-My experience as an entrepreneur taught me how to learn quick and on the fly; it also taught me how to find efficient solutions, set priorities, delegate tasks, face uncertainty, stay calm before the unexpected and rule out unworkable ideas 📉. I got a bachelor's degree in Economics 📊 because I enjoy finding solutions to "real world problems" 🌍, however, in this field you can't get directly involved in the implementation of such solutions and results don't depend ultimately on you, that's why I decided to switch career paths to IT.
+My experience as an entrepreneur taught me how to learn quick and on the fly; it also taught me how to choose the most efficient solution, set priorities, delegate tasks, face uncertainty, stay calm before the unexpected and rule out unworkable ideas 📉. I got a bachelor's degree in Economics 📊 because I enjoy dealing with "real world problems" 🌍, however, in this field you can't get directly involved in the implementation of such solutions and results don't depend ultimately on you, that's why I decided to switch career paths to IT.
 
 ### What I do 🛠️ ###
 I develop functional apps with a modern and intuitive design, **having user experience in the first place and guaranteeing efficiency and security** in transactions 💰  and data management 🆔. I'm always learning and working on projects in order to improve and widen my skills, as well as to keep up-to-date.
