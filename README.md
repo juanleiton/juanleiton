@@ -71,4 +71,5 @@ Since I like to focus on user experience, I have a special interest in **e-comme
 </div>
 
 Take a look at my portfolio 💼 at https://portfolio-juan-leiton.vercel.app/
+
 Email me 📧 at [jgleitonl@gmail.com](jgleitonl@gmail.com)
