@@ -4,7 +4,7 @@
 ### About me 🧑🏻‍💻 ###
 I find and solve customer and user real issues 💡.
 
-My experience as an entrepreneur taught me how to learn quick and on the fly; it also taught me how to choose the most efficient solution, set priorities, delegate tasks, face uncertainty, stay calm before the unexpected and rule out unworkable ideas 📉 in a timely fashion. I got a B.A. in Economics 📊 because I enjoy dealing with "real world problems" 🌍, however, in this field you can't get directly involved in the implementation of the solutions and the results don't depend ultimately on you, that's why I decided to switch career paths.
+My experience as an entrepreneur taught me how to learn quick and on the fly; it also taught me how to choose the most efficient solution, set priorities, delegate tasks, face uncertainty, stay calm before the unexpected and rule out unworkable ideas 📉 in a timely fashion. I got a Bachelor's degree in Economics 📊 because I enjoy dealing with "real world problems" 🌍, however, in this field you can't get directly involved in the implementation of the solutions and the results don't depend ultimately on you, that's why I decided to switch career paths.
 
 ### What I do 🛠️ ###
 I develop functional apps with a modern and intuitive design, **having user experience as a top priority and guaranteeing efficiency and security** in transactions 💰  and data management 🆔. I'm always learning and working on projects in order to improve and expand my skills, as well as to keep up-to-date.
