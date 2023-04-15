@@ -59,9 +59,6 @@ Since I like to focus on user experience, I have a special interest in **e-comme
  </div>
  
  I also have experience 👷 in **GitFlow** and team work under the **Scrum** methodology.
- 
-### My stats 🔥 ###
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juanleiton&theme=light&background=ffffff)](https://git.io/streak-stats)
 
 ### How to reach me 📫 ###
 <div id="badges">
