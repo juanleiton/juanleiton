@@ -1,18 +1,15 @@
 ## Hi 👋, I'm Juan Leiton... ##
-### **Full Stack Web Developer** ###
+### **Full Stack Developer** ###
 
 ### About me 🧑🏻‍💻 ###
-I find and solve customer and user real issues 💡.
+Web 3.0 enthusiast. I have hands-on experience building MERN stack e-commerce-oriented 🛒 apps with an agile, early-delivery-focused approach 🔥, having user experience as a top priority 🧍.
 
-My experience as an entrepreneur taught me how to learn quick and on the fly; it also taught me how to choose the most efficient solution, set priorities, delegate tasks, face uncertainty, stay calm before the unexpected and rule out unworkable ideas 📉 in a timely fashion. I got a Bachelor's degree in Economics 📊 because I enjoy dealing with "real world problems" 🌍, however, in this field you can't get directly involved in the implementation of the solutions and the results don't depend ultimately on you, that's why I decided to switch career paths.
+My experience as an entrepreneur taught me how to learn quick and on the fly 🏎️; it also taught me how to choose the most efficient solution 📈, set priorities ⚠️, delegate tasks ✔️, face uncertainty, stay calm before the unexpected and rule out unworkable ideas 📉 in a timely fashion 🕒. 
 
 ### What I do 🛠️ ###
-I develop functional apps with a modern and intuitive design, **having user experience as a top priority and guaranteeing efficiency and security** in transactions 💰  and data management 🆔. I'm always learning and working on projects in order to improve and expand my skills, as well as to keep up-to-date.
+I'm always learning and working on projects in order to improve and expand my skills, as well as to keep up-to-date. Currently, I'm working on 
 
-### My interests 🔍 ###
-Since I like to focus on user experience, I have a special interest in **e-commerce** 🛒 and **Fintech** 💳.
-
-### My Tools & technologies 🧰 ###
+### Tools & technologies 🧰 ###
  <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img src="https://user-images.githubusercontent.com/108427945/220447577-2d40e53b-d911-4919-9df8-1a832e7264e1.png" width="50" >
@@ -57,8 +54,6 @@ Since I like to focus on user experience, I have a special interest in **e-comme
    <img src="https://user-images.githubusercontent.com/108427945/220799354-9b2a07b1-d80c-4684-9bc3-33ce34d8f2e5.png" width="50" >
   </a>
  </div>
- 
- I also have experience 👷 in **GitFlow** and team work under the **Scrum** methodology.
 
 ### How to reach me 📫 ###
 <div id="badges">
