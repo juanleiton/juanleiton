@@ -9,8 +9,9 @@ My experience as an entrepreneur taught me how to learn quick and on the fly ⚡
 ### What I do 🛠️ ###
 I'm always learning something new and working on a side project 💼 in order to hone my skills 🛠️, as well as to keep up-to-date.
 
+I post updates 📰 on my projects and learning every week: [https://www.linkedin.com/in/juan-leiton-ba3582214/recent-activity/posts/](https://www.linkedin.com/in/juan-leiton-ba3582214/recent-activity/posts/)
+
 Currently, I'm working on SilkRoad, a C2C e-commerce platform. Take a look at it 👓: [https://github.com/juanleiton/SilkRoad](https://github.com/juanleiton/SilkRoad)
-I post updates 📰 every week, too: [https://www.linkedin.com/in/juan-leiton-ba3582214/recent-activity/posts/](https://www.linkedin.com/in/juan-leiton-ba3582214/recent-activity/posts/)
 
 ### Tools & technologies 🧰 ###
  <div>
