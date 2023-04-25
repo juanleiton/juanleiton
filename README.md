@@ -7,7 +7,7 @@ Web 3.0 enthusiast. I have hands-on experience building MERN stack e-commerce-or
 My experience as an entrepreneur taught me how to learn quick and on the fly 🏎️; it also taught me how to choose the most efficient solution 📈, set priorities ⚠️, delegate tasks ✔️, face uncertainty, stay calm before the unexpected and rule out unworkable ideas 📉 in a timely fashion 🕒. 
 
 ### What I do 🛠️ ###
-I'm always learning and working on projects in order to improve and expand my skills, as well as to keep up-to-date. Currently, I'm working on 
+I'm always learning something new and working on a side project 💼 in order to improve and expand my skills 🛠️, as well as to keep up-to-date. Currently, I'm working on SilkRoad, a C2C e-commerce platform. Take a look at it 👓: 
 
 ### Tools & technologies 🧰 ###
  <div>
@@ -61,7 +61,5 @@ I'm always learning and working on projects in order to improve and expand my sk
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-Take a look at my portfolio 💼 at https://portfolio-juan-leiton.vercel.app/
 
 Email me 📧 at [jgleitonl@gmail.com](jgleitonl@gmail.com)
